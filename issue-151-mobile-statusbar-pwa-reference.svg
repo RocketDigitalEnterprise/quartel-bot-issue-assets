@@ -1,0 +1,37 @@
+<svg width="620" height="900" viewBox="0 0 620 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="620" height="900" fill="#050505"/>
+  <rect x="54" y="40" width="512" height="820" rx="42" fill="#080808" stroke="#1f1f1f"/>
+  <text x="92" y="92" fill="#fff" font-size="30" font-family="Arial" font-weight="700">17:03</text>
+  <rect x="176" y="62" width="268" height="52" rx="26" fill="#101010" stroke="#303030"/>
+  <circle cx="210" cy="88" r="18" fill="#6f4a3b"/>
+  <text x="404" y="94" fill="#fff" font-size="15" font-family="Arial" font-weight="700">21</text>
+  <text x="462" y="94" fill="#fff" font-size="22" font-family="Arial">▮▮▮ 5G</text>
+  <rect x="54" y="124" width="512" height="28" fill="#111"/>
+  <text x="68" y="144" fill="#10c8ff" font-size="12" font-family="Arial" font-weight="700" letter-spacing="5">GANHOS AO VIVO</text>
+  <rect x="78" y="205" width="464" height="156" rx="28" fill="#09131d" stroke="#14354a"/>
+  <text x="158" y="245" fill="#777" font-size="12" font-family="Arial" font-weight="700" letter-spacing="6">STATUS</text>
+  <text x="270" y="245" fill="#777" font-size="12" font-family="Arial" font-weight="700" letter-spacing="6">TOKENS</text>
+  <text x="394" y="245" fill="#777" font-size="12" font-family="Arial" font-weight="700" letter-spacing="6">PLANO</text>
+  <text x="492" y="245" fill="#777" font-size="12" font-family="Arial" font-weight="700" letter-spacing="6">IA</text>
+  <rect x="128" y="260" width="86" height="48" rx="24" fill="#09251f" stroke="#0b6f5d"/>
+  <text x="148" y="291" fill="#fff" font-size="13" font-family="Arial" font-weight="700">TRADE</text>
+  <rect x="222" y="260" width="96" height="48" rx="24" fill="#0b2532" stroke="#145a70"/>
+  <text x="237" y="291" fill="#fff" font-size="13" font-family="Arial" font-weight="700">ILIMITADO</text>
+  <rect x="326" y="260" width="92" height="48" rx="24" fill="#342a13" stroke="#9d7c26"/>
+  <text x="344" y="291" fill="#fff" font-size="13" font-family="Arial" font-weight="700">316 DIAS</text>
+  <rect x="424" y="260" width="96" height="48" rx="24" fill="#301044" stroke="#7446aa"/>
+  <text x="452" y="291" fill="#fff" font-size="13" font-family="Arial" font-weight="700">PRO</text>
+  <circle cx="536" cy="284" r="24" fill="#111b24" stroke="#2b3d4a"/>
+  <text x="94" y="335" fill="#ffb6c5" font-size="14" font-family="Arial" font-weight="700">StopLoss</text>
+  <text x="94" y="352" fill="#fff" font-size="14" font-family="Arial">R$ 18.135,12</text>
+  <text x="452" y="335" fill="#9eead7" font-size="14" font-family="Arial" font-weight="700">StopWin</text>
+  <text x="442" y="352" fill="#fff" font-size="14" font-family="Arial">R$ 8.463,06</text>
+  <line x1="210" y1="342" x2="428" y2="342" stroke="#52606c" stroke-width="4"/>
+  <rect x="284" y="318" width="72" height="32" rx="16" fill="#30333c" stroke="#757984"/>
+  <text x="320" y="340" fill="#fff" font-size="14" font-family="Arial" text-anchor="middle">R$ 0,00</text>
+  <rect x="80" y="382" width="462" height="520" rx="28" fill="#080808" stroke="#054d32"/>
+  <text x="96" y="804" fill="#fff" font-size="22" font-family="Arial" font-weight="700" letter-spacing="8">HISTORICO</text>
+  <rect x="210" y="834" width="200" height="46" rx="23" fill="#262626" stroke="#555"/>
+  <text x="310" y="864" fill="#fff" font-size="17" font-family="Arial" text-anchor="middle">dev.quartelbot.com</text>
+  <text x="68" y="184" fill="#ff5c7a" font-size="15" font-family="Arial" font-weight="700">PWA/WebView iPhone: largura e safe-area precisam ser parte do contrato</text>
+</svg>
