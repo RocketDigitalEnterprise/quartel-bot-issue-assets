@@ -1,0 +1,44 @@
+{
+  "activeCard": {
+    "bottom": 550.5,
+    "height": 352,
+    "left": 28,
+    "right": 332,
+    "top": 198.5,
+    "width": 304
+  },
+  "bottomNav": {
+    "bottom": 620,
+    "height": 52,
+    "left": 0,
+    "right": 360,
+    "top": 568,
+    "width": 360
+  },
+  "cssRobotVh": "6.2px",
+  "cssVh": "6.2px",
+  "history": {
+    "bottom": 727.25,
+    "height": 148.75,
+    "left": 16,
+    "right": 344,
+    "top": 578.5,
+    "width": 328
+  },
+  "shell": {
+    "bottom": 554.5,
+    "height": 472,
+    "left": 16,
+    "right": 344,
+    "top": 82.5,
+    "width": 328
+  },
+  "visualViewport": {
+    "bottom": 620,
+    "height": 620,
+    "left": 0,
+    "right": 360,
+    "top": 0,
+    "width": 360
+  }
+}
