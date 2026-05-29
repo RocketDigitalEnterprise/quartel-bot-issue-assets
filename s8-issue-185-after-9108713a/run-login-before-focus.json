@@ -1,0 +1,28 @@
+{
+  "card": {
+    "bottom": 454.42,
+    "height": 388.84,
+    "left": 16,
+    "right": 344,
+    "top": 65.58,
+    "width": 328
+  },
+  "fontSize": "16px",
+  "scrollY": 0,
+  "shell": {
+    "bottom": 520,
+    "height": 520,
+    "left": 0,
+    "right": 360,
+    "top": 0,
+    "width": 360
+  },
+  "visualViewport": {
+    "bottom": 520,
+    "height": 520,
+    "left": 0,
+    "right": 360,
+    "top": 0,
+    "width": 360
+  }
+}
